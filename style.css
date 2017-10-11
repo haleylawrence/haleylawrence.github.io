@@ -1,0 +1,30 @@
+body {
+		background-image: url(sunflower.jpg) ;
+
+		color: Indigo;
+		font-size: 24pt;
+}
+
+table, th, td { border: 1px solid Indigo; border-collapse: collapse }
+IMG, p.one {
+    border-style: solid;
+    border-color: Indigo;
+}
+body {
+font-family: 'Josefin Slab', serif;
+}
+h1 {
+    border: 1px solid black;
+    outline-color: Indigo;
+}
+p {
+    background-color: White;
+		border-left: 6px solid Indigo;
+}
+
+table, th, td {background-color: White}
+a {
+    text-decoration: none;
+}
+p {text-indent: 50px}
+a {border-style: solid;}
